@@ -1,0 +1,16 @@
+{
+  "name": "anthonyshort-waypoints",
+  "description": "Add and remove classes when scrolling to elements on a page",
+  "version": "0.0.13",
+  "keywords": [],
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-each": "git://github.com/npmcomponent/component-each.git",
+    "component-bind": "git://github.com/npmcomponent/component-bind.git",
+    "component-classes": "git://github.com/npmcomponent/component-classes.git",
+    "anthonyshort-offset": "git://github.com/npmcomponent/anthonyshort-offset.git",
+    "matthewmueller-throttle": "git://github.com/npmcomponent/matthewmueller-throttle.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}

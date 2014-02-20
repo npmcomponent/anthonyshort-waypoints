@@ -1,10 +1,10 @@
-var Emitter = require('emitter');
-var each = require('each');
-var bind = require('bind');
-var offset = require('offset');
-var classes = require('classes');
-var throttle = require('throttle');
-var events = require('event');
+var Emitter = require('component-emitter');
+var each = require('component-each');
+var bind = require('component-bind');
+var offset = require('anthonyshort-offset');
+var classes = require('component-classes');
+var throttle = require('matthewmueller-throttle');
+var events = require('component-event');
 
 /**
  * Waypoints object takes points on the page and binds a scroll event
